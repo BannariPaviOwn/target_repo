@@ -1,0 +1,3 @@
+[submodule "submoudle_target_001"]
+	path = submoudle_target_001
+	url = https://github.com/BannariPaviOwn/source_repo.git
