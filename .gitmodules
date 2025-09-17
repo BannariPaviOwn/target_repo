@@ -22,3 +22,6 @@
 [submodule "model-v1"]
 	path = model-v1
 	url = https://github.com/BannariPavi/deepcraft-model-zoo-for-psoc-edge.git
+[submodule "target_007"]
+	path = target_007
+	url = https://github.com/BannariPavi/deepcraft-model-zoo-for-psoc-edge.git
