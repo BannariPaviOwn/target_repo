@@ -19,3 +19,6 @@
 [submodule "submoudle_target_005"]
 	path = submoudle_target_005
 	url = https://github.com/BannariPaviOwn/source_repo.git
+[submodule "model-v1"]
+	path = model-v1
+	url = https://github.com/BannariPavi/deepcraft-model-zoo-for-psoc-edge.git
