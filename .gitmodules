@@ -28,3 +28,6 @@
 [submodule "target_008"]
 	path = target_008
 	url = https://github.com/BannariPavi/deepcraft-model-zoo-for-psoc-edge.git
+[submodule "target_009"]
+	path = target_009
+	url = https://github.com/BannariPavi/4bites.git
