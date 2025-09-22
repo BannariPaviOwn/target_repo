@@ -34,3 +34,6 @@
 [submodule "target_080"]
 	path = target_080
 	url = https://github.com/Infineon/deepcraft-model-zoo-for-psoc-edge.git
+[submodule "target_081"]
+	path = target_081
+	url = https://github.com/Infineon/deepcraft-model-zoo-for-psoc-edge.git
